@@ -26,8 +26,8 @@ This visualization illustrates the average building square footage for each usag
 
 ## Links to Resources
 
-- [View the Data (CSV)](building_inventory.csv)
-- [View the Notebook (HTML)](notebook.html)
+- [View the Data (CSV)](https://github.com/rohan20399/dataViz/blob/main/building_inventory.csv)
+- [View the Notebook (HTML)](https://github.com/rohan20399/dataViz/blob/main/HW6.html)
 
 ---
 
