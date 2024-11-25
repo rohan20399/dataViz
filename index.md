@@ -77,5 +77,5 @@ The entire visualization and the dataset for it is different than the 2nd visual
 
 These visualizations were created as part of a Python and Altair assignment to explore data visualization techniques and interactivity. All files, including the dataset and notebook, are linked below:
 
-- [View the Dataset (CSV)](https://rohan20399.github.io/dataViz/datasets/building_inventory.csv)
+- [View the Dataset (CSV)](https://rohan20399.github.io/dataViz/dataset/building_inventory.csv)
 - [View the Notebook (ipynb)](https://rohan20399.github.io/dataViz/HW6.ipynb)
