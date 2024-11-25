@@ -1,9 +1,9 @@
 ---
 layout: default
-title: IS455 - Homework6
+title: Rohan Deshpande(rohankd2)
 ---
 
-# IS455 - Homework6
+# Homework6
 
 This page contains the visualizations created using Python, Altair, and Vegalite for the homework assignment. Each visualization includes a description, design choices, data transformations, and interactivity details.
 
@@ -11,7 +11,7 @@ This page contains the visualizations created using Python, Altair, and Vegalite
 
 ## Visualization 1: Average Building Square Footage by Usage Type
 
-<iframe src="https://github.com/rohan20399/dataViz/tree/main/visualizations/visualization1.html" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="visualizations/visualization1.html" width="100%" height="500px" frameborder="0"></iframe>
 
 ### Description
 
@@ -44,7 +44,7 @@ The interactive element of sliding bar for the year was added.
 
 ## Visualization 2: Total Square Footage by Year
 
-<iframe src="https://github.com/rohan20399/dataViz/tree/main/visualizations/visualization2.html" width="100%" height="500px" frameborder="0"></iframe>
+<iframe src="visualizations/visualization2.html" width="100%" height="500px" frameborder="0"></iframe>
 
 ### Description
 
